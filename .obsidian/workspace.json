@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "fbe94b76aeed29f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac808f65e602db86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d4b44539c9189d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02- USER INTERFACE/01 -  O Que e Figma/O QUE E FIGMA ?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2add6d2e344e270e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01- User Experence/03- Organização estrutura e nomemclatura.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5b258dd18edcbc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01- User Experence/04- Cinco Maneiras de indentificar problemas na arquitetura de informação.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ccfca0fa3313d04",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "img/gustavocelleguim.png"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "adb6964cba9bc1ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "b32caa28dbdb268b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5a7ccfb53aed67e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3a60a8016e0875ff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "457fb7e282d778ab",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5f2d241fcf748481",
+    "type": "split",
+    "children": [
+      {
+        "id": "05923c86b45573b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3050943910ecf54",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "img/gustavocelleguim.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae3eb557173a2a2a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "img/gustavocelleguim.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "033f564e60f9e12c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "327fc6e292ab22e9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "img/gustavocelleguim.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "a5a7ccfb53aed67e",
+  "lastOpenFiles": [
+    "readme.md",
+    "img/gustavocelleguim.png",
+    "01- User Experence/01 - Usabilidade Experiencia.md",
+    "img",
+    "02- USER INTERFACE/Pasted image 20240426145824.png",
+    "img/Pasted image 20240512143113.png",
+    "img/Pasted image 20240512143220.png",
+    "01- User Experence/05 - Como você pode melhorar seu UX.md",
+    "01- User Experence/04- Cinco Maneiras de indentificar problemas na arquitetura de informação.md",
+    "01- User Experence/03- Organização estrutura e nomemclatura.md",
+    "01- User Experence/02- Heuristicas de nilsen.md",
+    "02- USER INTERFACE/01 -  O Que e Figma/O QUE E FIGMA ?.md",
+    "02- USER INTERFACE",
+    "01- User Experence",
+    "02- USER INTERFACE/01 -  O Que e Figma/plugins.md",
+    "Pasted image 20240426171138.png",
+    "02- USER INTERFACE/01 -  O Que e Figma"
+  ]
+}
